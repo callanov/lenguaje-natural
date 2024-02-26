@@ -1,0 +1,5 @@
+mira, esa vaca vuela.
+
+vuela, gira y aterriza;
+
+vuela : accion de volar.
